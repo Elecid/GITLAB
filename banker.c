@@ -125,7 +125,7 @@ while(1)
 		{
 			if(reqNo[i]>Available[i]) 
 			{
-			printf("No resource, P.%d Must wait.\n",procNo);
+			printf("Noooooooooooooo.\n",procNo);
 			check = false;
 			break;
 			}
