@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
-#define proNum 5   //Number of processes	(change here)
-#define resTypes 3 //Number of resource types	(change here)
+#define proNum 12  //Number of processes	(change here)
+#define resTypes 31 //Number of resource types	(change here)
 void printSeq(int* data,int num);
 int ta;
 float lenght;
@@ -127,7 +127,7 @@ while(1)
 		{
 			if(reqNo[i]>Available[i]) 
 			{
-			printf("No resource, P.%d Must wait.\n",procNo);
+			printf("Noooooooooooooo.\n",procNo);
 			check = false;
 			break;
 			}
