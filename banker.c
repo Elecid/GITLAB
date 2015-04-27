@@ -9,8 +9,8 @@ float lenght;
 int main()
 {
 int i,j,k;
-bool safe;	// safe state
-bool check;	// check Need<Work
+bool eigum;	// safe state
+bool joker;	// check Need<Work
 bool Finish[proNum];
 
 //Initial Value Here
