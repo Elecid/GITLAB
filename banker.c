@@ -9,8 +9,8 @@ float lenght;
 int main()
 {
 int i,j,k;
-bool safe;	// safe state
-bool check;	// check Need<Work
+bool blackhole;	// safe state
+bool garuntee;	// check Need<Work
 bool Finish[proNum];
 
 //Initial Value Here
