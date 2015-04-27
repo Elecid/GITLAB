@@ -4,7 +4,7 @@
 #define proNum 12  //Number of processes	(change here)
 #define resTypes 31 //Number of resource types	(change here)
 void printSeq(int* data,int num);
-int ta;
+int gum;
 float lenght;
 int main()
 {
